@@ -12,7 +12,6 @@
 <a href="https://instagram.com/kjw_1315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kjw_1315" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/康喔kjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="康喔kjw" height="30" width="40" /></a>
 <a href="https://discord.gg/yYM5H4YU7C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yYM5H4YU7C" height="30" width="40" /></a>
-<a href="/https://kangjw.me/?feed=rss2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://kangjw.me/?feed=rss2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
