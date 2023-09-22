@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently study at **National Taiwan University of Science and Technology, NTUST**
 
-- 👨‍💻 My personal blog at [https://kangjw.me]([https://kangjw.me)
+- 👨‍💻 My personal blog at [https://kangjw.me](https://kangjw.me)
 
 - 📫 How to reach me **hi@kangjw.me** or **Telegram: @kangjwme**
 
